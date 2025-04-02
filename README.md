@@ -3,7 +3,7 @@
 
 ✅ Menampilkan suhu, kondisi cuaca, dan ikon 🌡️
 
-✅ Menggunakan API dari OpenWeatherMap
+✅ Menggunakan API dari WeatherMap
 
 # Getting Started with Create React App
 
