@@ -1,6 +1,8 @@
 # Fitur:
 ✅ Cari cuaca berdasarkan nama kota 🌍
+
 ✅ Menampilkan suhu, kondisi cuaca, dan ikon 🌡️
+
 ✅ Menggunakan API dari OpenWeatherMap
 
 # Getting Started with Create React App
