@@ -1,3 +1,8 @@
+# Fitur:
+✅ Cari cuaca berdasarkan nama kota 🌍
+✅ Menampilkan suhu, kondisi cuaca, dan ikon 🌡️
+✅ Menggunakan API dari OpenWeatherMap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
